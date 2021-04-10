@@ -1,1 +1,1 @@
-https://midas-login.herokuapp.com/
+https://avanisingh0105.github.io/midasLogin.github.io/
